@@ -9,7 +9,7 @@
 		<variable name="zookeeper_service_model" value="http://models.activeeon.com/pca/zookeeper" />
 	</variables>
 	<description>
-    	<![CDATA[ Deployment of the Kafka server....]]>
+    	<![CDATA[ Deployment of the Kafka server]]>
 	</description>
 	<genericInformation>
   	    <info name="pca.service.id" value="Kafka" />
